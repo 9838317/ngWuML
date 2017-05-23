@@ -1,0 +1,12 @@
+in matlab, 
+
+    .* means a paird-wised multification.
+    '*    is a sum.
+
+0. helper1Ddistance                      This is to calculate Y_pred = Y
+  
+1. helperChangeDImention                 This is to add another dimention to X. from [dimensions * datapoints] to [(dimensions + 1) * datapoints]
+
+2. helperDetermineDimen                  This is to change the dimention of X matrix into a fit one. Finally output is [dimensions * datapoints].
+
+3. helperDetermineTheta
